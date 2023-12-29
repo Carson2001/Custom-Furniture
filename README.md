@@ -7,6 +7,8 @@ Description:
 Completion Date:
 
 ### _Project 2: Book Shelf_
+![book_case_inprogress](https://github.com/Carson2001/Custom-Furniture/assets/154708874/ce070bea-d81e-4cfa-8c19-45523edc6f85)
+
 Description: 
 Completion Date:
 
