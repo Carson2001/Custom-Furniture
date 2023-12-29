@@ -1,20 +1,20 @@
 ### _About:_
 
-### _Project 1: Media Console_
+### **Project 1: Media Console**
 
 Description: 
 Completion Date:
 
-### _Project 2: Book Shelf_
+### **Project 2: Book Shelf**
 
 Description: 
 Completion Date:
 
-### **_Project 3: Office Cabinet_**
+### **Project 3: Office Cabinet**
 
 Description: 
 Completion Date:
 
-### _Project 4: Matching Night Stands_
+### **Project 4: Matching Night Stands**
 Description: 
 Completion Date:
