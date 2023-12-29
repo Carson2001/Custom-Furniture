@@ -1,7 +1,4 @@
-# Custom-Furniture by Carson Bland
-
 ### _About:_
-
 
 ### _Project 1: Media Console_
 Description: 
