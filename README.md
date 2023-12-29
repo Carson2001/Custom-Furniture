@@ -13,6 +13,8 @@ Description:
 Completion Date:
 
 ### _Project 3: Office Cabinet_
+![cab_unfinished](https://github.com/Carson2001/Custom-Furniture/assets/154708874/29d271e6-54ca-48fb-a71a-e137edd0e026)
+
 Description: 
 Completion Date:
 
