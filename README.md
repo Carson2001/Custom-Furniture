@@ -13,7 +13,7 @@ Completion Date: 02/2022
 ![book_case_inprogress](https://github.com/Carson2001/Custom-Furniture/assets/154708874/776f8b7d-0568-485c-9b51-6e00b970c585)
 ![bookcase_finished](https://github.com/Carson2001/Custom-Furniture/assets/154708874/ebf71f2b-ffec-41b2-8d21-b43c5c1f9f74)
 
-Description: Made from maple veneer. This piece utilizes rabbit joints fro the outer carcus of the cabinet, and pine for the shelving. 
+Description: Made from maple veneer. This piece utilizes rabbit joints for the outer carcass of the cabinet, and pine for the shelving. 
 
 Completion Date: 12/2022
 
@@ -21,7 +21,7 @@ Completion Date: 12/2022
 ![cab_unfinished](https://github.com/Carson2001/Custom-Furniture/assets/154708874/dbad4238-0012-4051-84f8-94f1a4276a8c)
 ![cab_finished](https://github.com/Carson2001/Custom-Furniture/assets/154708874/864a1e6e-d3df-4912-bc9c-7fb31605f447)
 
-Description:  Made from oak veneer, this was my first project incorporating drawers. 
+Description:  Made from oak veneer, this was my first project incorporating a drawer. Poplar is used for the face frame.
 
 Completion Date: 06/2023
 
